@@ -1,2 +1,0 @@
-# YV-MPL
-YVtils License
